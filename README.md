@@ -4,7 +4,7 @@ Curso: [Minería de datos](https://github.com/AprendizajeProfundo/Ciencia-de-Dat
 ## - Joan Bofill
 ## - David Espinosa
 
-Consiste en una aplicación de machine learning que clasificará audios de diferentes interlocutores (actores) respecto a las emociones asociadas a su discurso.
+Consiste en una aplicación de machine learning que clasifica audios de diferentes interlocutores (actores) respecto a las emociones asociadas a su discurso.
 
 ---
 

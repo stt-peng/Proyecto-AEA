@@ -1,4 +1,5 @@
-# Proyecto AnálisisEmocionesAudios (Minería de Datos)
+# Proyecto AEA (Minería de Datos)
+## Análisis de Emociones por Audios
 Curso: [Minería de datos](https://github.com/AprendizajeProfundo/Ciencia-de-Datos)
 
 ## - Joan Bofill

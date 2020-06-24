@@ -2,8 +2,8 @@
 ## Análisis de Emociones por Audios
 Curso: [Minería de datos](https://github.com/AprendizajeProfundo/Ciencia-de-Datos)
 
-## - Joan Bofill
 ## - David Espinosa
+## - Joan Bofill
 
 **Video de presentación:** [https://youtu.be/8G-4li1ZbBE](https://youtu.be/8G-4li1ZbBE)
 

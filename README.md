@@ -6,7 +6,7 @@
 
 Curso: [https://github.com/AprendizajeProfundo/Ciencia-de-Datos](https://github.com/AprendizajeProfundo/Ciencia-de-Datos)
 
-
+# Resumen
 
 **Video de introducción:** [https://youtu.be/8G-4li1ZbBE](https://youtu.be/8G-4li1ZbBE)
 

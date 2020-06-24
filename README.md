@@ -1,6 +1,6 @@
 # Proyecto AEA (Minería de Datos)
 ## Análisis de Emociones por Audios
-## 2020-I
+**2020-I**
 Curso: [Minería de datos](https://github.com/AprendizajeProfundo/Ciencia-de-Datos)
 
 ## - David Espinosa

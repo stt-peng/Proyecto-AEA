@@ -2,7 +2,7 @@
 ## Análisis de Emociones por Audios
 **2020-I**
 
-Curso: [Minería de datos](https://github.com/AprendizajeProfundo/Ciencia-de-Datos)
+Curso: [https://github.com/AprendizajeProfundo/Ciencia-de-Datos](https://github.com/AprendizajeProfundo/Ciencia-de-Datos)
 
 ## - David Espinosa
 ## - Joan Bofill

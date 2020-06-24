@@ -6,7 +6,7 @@ Curso: [Minería de datos](https://github.com/AprendizajeProfundo/Ciencia-de-Dat
 
 Consiste en una aplicación de machine learning que clasifica audios de diferentes interlocutores (actores) respecto a las emociones asociadas a su discurso.
 
-Video de presentación: [https://youtu.be/8G-4li1ZbBE](https://youtu.be/8G-4li1ZbBE)
+**Video de presentación:** [https://youtu.be/8G-4li1ZbBE](https://youtu.be/8G-4li1ZbBE)
 
 ---
 

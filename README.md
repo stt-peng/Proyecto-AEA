@@ -1,11 +1,12 @@
 # Proyecto AEA (Minería de Datos)
 ## Análisis de Emociones por Audios
+### - David Espinosa
+### - Joan Bofill
 **2020-I**
 
 Curso: [https://github.com/AprendizajeProfundo/Ciencia-de-Datos](https://github.com/AprendizajeProfundo/Ciencia-de-Datos)
 
-## - David Espinosa
-## - Joan Bofill
+
 
 **Video de introducción:** [https://youtu.be/8G-4li1ZbBE](https://youtu.be/8G-4li1ZbBE)
 
